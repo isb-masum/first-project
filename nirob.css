@@ -1,0 +1,73 @@
+body{
+    background-color: white;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: orange;
+}
+.leftsite{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.leftsite img{
+    width: 100%;
+    height: 400px;
+    width: 500px;
+    border-radius: 50%;
+    padding: 35px;
+}
+.sagol{
+   
+    color:yellow;`
+   
+}
+section{
+    
+}
+.misum{
+    background-color: orange;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.jisum{
+   
+  height: 1000px;
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+    
+      
+}
+.experience{
+   height: 500px;
+}
+.bikum{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 40px;
+
+}
+.tusi{
+    border-left: 7px solid salmon;
+}
+.kotu{
+    border-left: 7px solid greenyellow;
+}
+.kalimun{
+    text-align: center;
+    
+}
+   
+
+ 
